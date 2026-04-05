@@ -1,3 +1,5 @@
 - Select some code/text block in vs code, press ctrl + alt + c.
 - Then select some other code/text block in vs code and press ctrl + alt + c.
 - Both will be exchanged.
+
+for Mac: the command is cmd + alt + c
